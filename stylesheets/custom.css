@@ -1,0 +1,44 @@
+body{
+padding-bottom:1cm;
+ 
+}
+@media (min-width: 768px) {
+
+nav {
+
+    display: block;
+    list-style-type: none; 
+    margin:0 auto;
+    width: 70%;
+}}
+
+@media  (min-width: 768px) {
+
+.main-content{
+margin-left: 15%;
+margin-right: 15%;
+    display: inline-block;
+
+    display: block;
+    list-style-type: none; 
+    margin:0 auto;
+    width: 70%;
+
+}
+
+/*
+@media (min-width: 768px) {
+  .main {
+    width: 553.5px;
+  }
+}
+@media (min-width: 992px) {
+  .main {
+    width: 721.5px;
+  }
+}
+@media (min-width: 1200px) {
+  .main {
+    width: 877.5px;
+  }}
+*/
